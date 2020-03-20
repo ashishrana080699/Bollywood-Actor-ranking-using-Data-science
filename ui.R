@@ -17,7 +17,7 @@ shinyUI(fluidPage(
     ) 
   ),
   
-  #slidebar for taking rank of actor
+  #slidebar fot taking rank of actor
   
   sidebarPanel(
     textInput(inputId="var1", label = "Enter the Rank of the Actor"),
