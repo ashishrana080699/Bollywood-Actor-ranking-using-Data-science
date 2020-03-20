@@ -32,7 +32,7 @@ shinyServer(
     
    })
    
-   #Display plot of linear regression and naive bayes
+   #Display plot of linear regression
    
    output$data2 <- renderPlot({
      
